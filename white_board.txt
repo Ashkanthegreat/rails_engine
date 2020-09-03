@@ -1,0 +1,10 @@
+models
+
+1. customer
+5. invoice_item
+4. invoice
+3. item
+2. merchant
+6. transaction
+
+t.timestamps
